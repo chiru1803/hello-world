@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+hi humans!
+ hubbot here, i like notes
